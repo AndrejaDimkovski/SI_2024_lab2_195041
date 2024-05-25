@@ -3,12 +3,15 @@ Andreja Dimkovski 195041
 
 2. CFG Дијаграм
    
+![CFG Diagram](https://github.com/AndrejaDimkovski/SI_2024_lab2_195041/assets/164022081/34a3ce3c-5f82-4073-8f8b-7a90c1d8ae60)
 
 3. Цикломатска комплексност
 Цикломатската комплесност може да се пресмета со V(G) = E - N + 2, каде што E е број на ребра и N е број на јазли на CFG.
 V(G) = 42 - 32 + 2 = 12
 
 4. Every Branch критериум
+   
+![EveryBranch](https://github.com/AndrejaDimkovski/SI_2024_lab2_195041/assets/164022081/adc22d0c-c8d3-44eb-ada8-31e64b900d40)
 
 
 Објаснување за напишаните тестови
